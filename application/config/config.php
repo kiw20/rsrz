@@ -17,7 +17,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/admin.rsrz/';
+$url = "http://".$_SERVER["HTTP_HOST"].str_replace("index.php","",$_SERVER['SCRIPT_NAME']);
+$config['base_url'] = $url;
+
 
 /*
 |--------------------------------------------------------------------------
