@@ -13,6 +13,9 @@ class Data_siswa extends MY_Controller
 		'materi_siswa','portofolio_siswa','pembayaran_siswa']);*/
 		
 	}
+	function baru(){
+		$this->load->view('template/templates');
+	}
 	function index()
 
 	{ 
