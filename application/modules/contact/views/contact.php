@@ -61,7 +61,7 @@
 							<div class="contact-info">
 								<div class="icon"><i class="fa fa-map"></i></div>
 								<h3>Location</h3>
-								<p>60 Grant Ave. Central New Road 0708, UK 9766 Tanner</p>
+								<p>Vila Pamulang Jl. Muttaqin II Blok DF12 No.3, Pd. Petir, Kec. Bojongsari, Kota Depok, Jawa Barat 16524</p>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-12">
