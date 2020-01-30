@@ -15,7 +15,7 @@ class Home_admin extends MY_Controller
 	{
 		
 		$data['content_view'] = 'home_admin/home_admin_v';
-		$this->template->template_admin($data);
+		$this->template->load('template/template_admin','home_admin_v2');
 	}
 
 	function sejarah()

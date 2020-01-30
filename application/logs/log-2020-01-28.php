@@ -3270,3 +3270,1224 @@ INFO - 2020-01-28 10:17:06 --> Controller Class Initialized
 INFO - 2020-01-28 10:17:06 --> Controller Class Initialized
 ERROR - 2020-01-28 10:17:06 --> 404 Page Not Found: /index
 ERROR - 2020-01-28 10:17:06 --> 404 Page Not Found: /index
+INFO - 2020-01-28 18:34:06 --> Config Class Initialized
+INFO - 2020-01-28 18:34:06 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:34:07 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:34:07 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:34:07 --> URI Class Initialized
+DEBUG - 2020-01-28 18:34:07 --> No URI present. Default controller set.
+INFO - 2020-01-28 18:34:07 --> Router Class Initialized
+INFO - 2020-01-28 18:34:07 --> Output Class Initialized
+INFO - 2020-01-28 18:34:07 --> Security Class Initialized
+DEBUG - 2020-01-28 18:34:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:34:07 --> Input Class Initialized
+INFO - 2020-01-28 18:34:07 --> Language Class Initialized
+INFO - 2020-01-28 18:34:08 --> Language Class Initialized
+INFO - 2020-01-28 18:34:08 --> Config Class Initialized
+INFO - 2020-01-28 18:34:08 --> Loader Class Initialized
+INFO - 2020-01-28 18:34:08 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:34:08 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:34:08 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:34:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:34:08 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:34:08 --> Home_admin MX_Controller Initialized
+DEBUG - 2020-01-28 18:34:08 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:34:08 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/sejarah/controllers/Sejarah.php
+DEBUG - 2020-01-28 18:34:08 --> Sejarah MX_Controller Initialized
+INFO - 2020-01-28 18:34:08 --> Model Class Initialized
+DEBUG - 2020-01-28 18:34:08 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/sejarah/models/M_sejarah.php
+INFO - 2020-01-28 18:34:08 --> Model Class Initialized
+ERROR - 2020-01-28 18:34:08 --> Severity: error --> Exception: Call to undefined method Template::template_admin() C:\xampp\htdocs\adminrsrz_baru\application\modules\home_admin\controllers\home_admin.php 18
+INFO - 2020-01-28 18:34:32 --> Config Class Initialized
+INFO - 2020-01-28 18:34:32 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:34:32 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:34:32 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:34:32 --> URI Class Initialized
+DEBUG - 2020-01-28 18:34:32 --> No URI present. Default controller set.
+INFO - 2020-01-28 18:34:32 --> Router Class Initialized
+INFO - 2020-01-28 18:34:32 --> Output Class Initialized
+INFO - 2020-01-28 18:34:32 --> Security Class Initialized
+DEBUG - 2020-01-28 18:34:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:34:32 --> Input Class Initialized
+INFO - 2020-01-28 18:34:32 --> Language Class Initialized
+INFO - 2020-01-28 18:34:32 --> Language Class Initialized
+INFO - 2020-01-28 18:34:32 --> Config Class Initialized
+INFO - 2020-01-28 18:34:32 --> Loader Class Initialized
+INFO - 2020-01-28 18:34:32 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:34:32 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:34:32 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:34:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:34:33 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:34:33 --> Home_admin MX_Controller Initialized
+DEBUG - 2020-01-28 18:34:33 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:34:33 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/sejarah/controllers/Sejarah.php
+DEBUG - 2020-01-28 18:34:33 --> Sejarah MX_Controller Initialized
+INFO - 2020-01-28 18:34:33 --> Model Class Initialized
+DEBUG - 2020-01-28 18:34:33 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/sejarah/models/M_sejarah.php
+INFO - 2020-01-28 18:34:33 --> Model Class Initialized
+DEBUG - 2020-01-28 18:34:33 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/home_admin/views/home_admin_v2.php
+DEBUG - 2020-01-28 18:34:33 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\views\template/template_admin.php
+INFO - 2020-01-28 18:34:33 --> Final output sent to browser
+DEBUG - 2020-01-28 18:34:33 --> Total execution time: 0.6942
+INFO - 2020-01-28 18:34:54 --> Config Class Initialized
+INFO - 2020-01-28 18:34:54 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:34:54 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:34:54 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:34:55 --> URI Class Initialized
+INFO - 2020-01-28 18:34:55 --> Router Class Initialized
+INFO - 2020-01-28 18:34:55 --> Output Class Initialized
+INFO - 2020-01-28 18:34:55 --> Security Class Initialized
+DEBUG - 2020-01-28 18:34:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:34:55 --> Input Class Initialized
+INFO - 2020-01-28 18:34:55 --> Language Class Initialized
+INFO - 2020-01-28 18:34:55 --> Language Class Initialized
+INFO - 2020-01-28 18:34:55 --> Config Class Initialized
+INFO - 2020-01-28 18:34:55 --> Loader Class Initialized
+INFO - 2020-01-28 18:34:55 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:34:55 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:34:55 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:34:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:34:55 --> Controller Class Initialized
+ERROR - 2020-01-28 18:34:55 --> 404 Page Not Found: /index
+INFO - 2020-01-28 18:34:58 --> Config Class Initialized
+INFO - 2020-01-28 18:34:58 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:34:58 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:34:58 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:34:58 --> URI Class Initialized
+DEBUG - 2020-01-28 18:34:58 --> No URI present. Default controller set.
+INFO - 2020-01-28 18:34:58 --> Router Class Initialized
+INFO - 2020-01-28 18:34:58 --> Output Class Initialized
+INFO - 2020-01-28 18:34:58 --> Security Class Initialized
+DEBUG - 2020-01-28 18:34:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:34:58 --> Input Class Initialized
+INFO - 2020-01-28 18:34:58 --> Language Class Initialized
+INFO - 2020-01-28 18:34:58 --> Language Class Initialized
+INFO - 2020-01-28 18:34:58 --> Config Class Initialized
+INFO - 2020-01-28 18:34:58 --> Loader Class Initialized
+INFO - 2020-01-28 18:34:58 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:34:58 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:34:58 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:34:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:34:58 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:34:58 --> Home_admin MX_Controller Initialized
+DEBUG - 2020-01-28 18:34:58 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:34:58 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/sejarah/controllers/Sejarah.php
+DEBUG - 2020-01-28 18:34:58 --> Sejarah MX_Controller Initialized
+INFO - 2020-01-28 18:34:58 --> Model Class Initialized
+DEBUG - 2020-01-28 18:34:58 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/sejarah/models/M_sejarah.php
+INFO - 2020-01-28 18:34:58 --> Model Class Initialized
+DEBUG - 2020-01-28 18:34:58 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/home_admin/views/home_admin_v2.php
+DEBUG - 2020-01-28 18:34:58 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\views\template/template_admin.php
+INFO - 2020-01-28 18:34:58 --> Final output sent to browser
+DEBUG - 2020-01-28 18:34:58 --> Total execution time: 0.7063
+INFO - 2020-01-28 18:41:32 --> Config Class Initialized
+INFO - 2020-01-28 18:41:32 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:41:32 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:41:32 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:41:32 --> URI Class Initialized
+INFO - 2020-01-28 18:41:32 --> Router Class Initialized
+INFO - 2020-01-28 18:41:32 --> Output Class Initialized
+INFO - 2020-01-28 18:41:32 --> Security Class Initialized
+DEBUG - 2020-01-28 18:41:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:41:33 --> Input Class Initialized
+INFO - 2020-01-28 18:41:33 --> Language Class Initialized
+INFO - 2020-01-28 18:41:33 --> Language Class Initialized
+INFO - 2020-01-28 18:41:33 --> Config Class Initialized
+INFO - 2020-01-28 18:41:33 --> Loader Class Initialized
+INFO - 2020-01-28 18:41:33 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:41:33 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:41:33 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:41:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:41:33 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:41:33 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 18:41:33 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:41:33 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 18:41:33 --> Final output sent to browser
+DEBUG - 2020-01-28 18:41:33 --> Total execution time: 1.0376
+INFO - 2020-01-28 18:43:09 --> Config Class Initialized
+INFO - 2020-01-28 18:43:09 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:43:09 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:43:09 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:09 --> URI Class Initialized
+INFO - 2020-01-28 18:43:09 --> Router Class Initialized
+INFO - 2020-01-28 18:43:09 --> Output Class Initialized
+INFO - 2020-01-28 18:43:09 --> Security Class Initialized
+DEBUG - 2020-01-28 18:43:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:43:09 --> Input Class Initialized
+INFO - 2020-01-28 18:43:09 --> Language Class Initialized
+INFO - 2020-01-28 18:43:09 --> Language Class Initialized
+INFO - 2020-01-28 18:43:09 --> Config Class Initialized
+INFO - 2020-01-28 18:43:09 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:09 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:09 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:09 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:09 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:43:09 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 18:43:09 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:43:09 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 18:43:09 --> Final output sent to browser
+DEBUG - 2020-01-28 18:43:09 --> Total execution time: 0.5620
+INFO - 2020-01-28 18:43:10 --> Config Class Initialized
+INFO - 2020-01-28 18:43:10 --> Config Class Initialized
+INFO - 2020-01-28 18:43:10 --> Config Class Initialized
+INFO - 2020-01-28 18:43:10 --> Config Class Initialized
+INFO - 2020-01-28 18:43:10 --> Config Class Initialized
+INFO - 2020-01-28 18:43:10 --> Hooks Class Initialized
+INFO - 2020-01-28 18:43:10 --> Hooks Class Initialized
+INFO - 2020-01-28 18:43:10 --> Hooks Class Initialized
+INFO - 2020-01-28 18:43:10 --> Hooks Class Initialized
+INFO - 2020-01-28 18:43:10 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:43:10 --> UTF-8 Support Enabled
+DEBUG - 2020-01-28 18:43:10 --> UTF-8 Support Enabled
+DEBUG - 2020-01-28 18:43:10 --> UTF-8 Support Enabled
+DEBUG - 2020-01-28 18:43:10 --> UTF-8 Support Enabled
+DEBUG - 2020-01-28 18:43:10 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:43:10 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:10 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:10 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:10 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:10 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:10 --> URI Class Initialized
+INFO - 2020-01-28 18:43:10 --> URI Class Initialized
+INFO - 2020-01-28 18:43:10 --> URI Class Initialized
+INFO - 2020-01-28 18:43:10 --> URI Class Initialized
+INFO - 2020-01-28 18:43:10 --> URI Class Initialized
+INFO - 2020-01-28 18:43:10 --> Router Class Initialized
+INFO - 2020-01-28 18:43:10 --> Router Class Initialized
+INFO - 2020-01-28 18:43:10 --> Router Class Initialized
+INFO - 2020-01-28 18:43:10 --> Router Class Initialized
+INFO - 2020-01-28 18:43:10 --> Router Class Initialized
+INFO - 2020-01-28 18:43:10 --> Output Class Initialized
+INFO - 2020-01-28 18:43:10 --> Output Class Initialized
+INFO - 2020-01-28 18:43:10 --> Output Class Initialized
+INFO - 2020-01-28 18:43:10 --> Output Class Initialized
+INFO - 2020-01-28 18:43:10 --> Output Class Initialized
+INFO - 2020-01-28 18:43:10 --> Security Class Initialized
+INFO - 2020-01-28 18:43:10 --> Security Class Initialized
+INFO - 2020-01-28 18:43:10 --> Security Class Initialized
+INFO - 2020-01-28 18:43:10 --> Security Class Initialized
+INFO - 2020-01-28 18:43:10 --> Security Class Initialized
+DEBUG - 2020-01-28 18:43:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-01-28 18:43:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-01-28 18:43:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-01-28 18:43:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-01-28 18:43:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:43:10 --> Input Class Initialized
+INFO - 2020-01-28 18:43:10 --> Input Class Initialized
+INFO - 2020-01-28 18:43:10 --> Input Class Initialized
+INFO - 2020-01-28 18:43:10 --> Input Class Initialized
+INFO - 2020-01-28 18:43:10 --> Input Class Initialized
+INFO - 2020-01-28 18:43:10 --> Language Class Initialized
+INFO - 2020-01-28 18:43:10 --> Language Class Initialized
+INFO - 2020-01-28 18:43:10 --> Language Class Initialized
+INFO - 2020-01-28 18:43:10 --> Language Class Initialized
+INFO - 2020-01-28 18:43:10 --> Language Class Initialized
+INFO - 2020-01-28 18:43:10 --> Language Class Initialized
+INFO - 2020-01-28 18:43:10 --> Language Class Initialized
+INFO - 2020-01-28 18:43:10 --> Language Class Initialized
+INFO - 2020-01-28 18:43:10 --> Language Class Initialized
+INFO - 2020-01-28 18:43:10 --> Language Class Initialized
+INFO - 2020-01-28 18:43:10 --> Config Class Initialized
+INFO - 2020-01-28 18:43:10 --> Config Class Initialized
+INFO - 2020-01-28 18:43:10 --> Config Class Initialized
+INFO - 2020-01-28 18:43:10 --> Config Class Initialized
+INFO - 2020-01-28 18:43:10 --> Config Class Initialized
+INFO - 2020-01-28 18:43:10 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:10 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:10 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:10 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:10 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:10 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:10 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:10 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:10 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:10 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:10 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:10 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:10 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:10 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:10 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:10 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:10 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:10 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:10 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:10 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:10 --> Controller Class Initialized
+INFO - 2020-01-28 18:43:10 --> Controller Class Initialized
+INFO - 2020-01-28 18:43:10 --> Controller Class Initialized
+INFO - 2020-01-28 18:43:10 --> Controller Class Initialized
+INFO - 2020-01-28 18:43:10 --> Controller Class Initialized
+ERROR - 2020-01-28 18:43:10 --> 404 Page Not Found: /index
+ERROR - 2020-01-28 18:43:10 --> 404 Page Not Found: /index
+ERROR - 2020-01-28 18:43:10 --> 404 Page Not Found: /index
+ERROR - 2020-01-28 18:43:10 --> 404 Page Not Found: /index
+ERROR - 2020-01-28 18:43:10 --> 404 Page Not Found: /index
+INFO - 2020-01-28 18:43:11 --> Config Class Initialized
+INFO - 2020-01-28 18:43:11 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:43:11 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:43:11 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:11 --> URI Class Initialized
+INFO - 2020-01-28 18:43:11 --> Router Class Initialized
+INFO - 2020-01-28 18:43:11 --> Output Class Initialized
+INFO - 2020-01-28 18:43:11 --> Security Class Initialized
+DEBUG - 2020-01-28 18:43:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:43:11 --> Input Class Initialized
+INFO - 2020-01-28 18:43:11 --> Language Class Initialized
+INFO - 2020-01-28 18:43:11 --> Language Class Initialized
+INFO - 2020-01-28 18:43:11 --> Config Class Initialized
+INFO - 2020-01-28 18:43:11 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:11 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:11 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:11 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:12 --> Controller Class Initialized
+ERROR - 2020-01-28 18:43:12 --> 404 Page Not Found: /index
+INFO - 2020-01-28 18:43:12 --> Config Class Initialized
+INFO - 2020-01-28 18:43:12 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:43:12 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:43:12 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:12 --> URI Class Initialized
+INFO - 2020-01-28 18:43:12 --> Router Class Initialized
+INFO - 2020-01-28 18:43:12 --> Output Class Initialized
+INFO - 2020-01-28 18:43:12 --> Security Class Initialized
+DEBUG - 2020-01-28 18:43:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:43:12 --> Input Class Initialized
+INFO - 2020-01-28 18:43:12 --> Language Class Initialized
+INFO - 2020-01-28 18:43:12 --> Language Class Initialized
+INFO - 2020-01-28 18:43:12 --> Config Class Initialized
+INFO - 2020-01-28 18:43:12 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:12 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:12 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:13 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:13 --> Controller Class Initialized
+ERROR - 2020-01-28 18:43:13 --> 404 Page Not Found: /index
+INFO - 2020-01-28 18:43:38 --> Config Class Initialized
+INFO - 2020-01-28 18:43:38 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:43:38 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:43:38 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:38 --> URI Class Initialized
+INFO - 2020-01-28 18:43:38 --> Router Class Initialized
+INFO - 2020-01-28 18:43:38 --> Output Class Initialized
+INFO - 2020-01-28 18:43:39 --> Security Class Initialized
+DEBUG - 2020-01-28 18:43:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:43:39 --> Input Class Initialized
+INFO - 2020-01-28 18:43:39 --> Language Class Initialized
+INFO - 2020-01-28 18:43:39 --> Language Class Initialized
+INFO - 2020-01-28 18:43:39 --> Config Class Initialized
+INFO - 2020-01-28 18:43:39 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:39 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:39 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:39 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:39 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:43:39 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 18:43:39 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:43:39 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 18:43:39 --> Final output sent to browser
+DEBUG - 2020-01-28 18:43:39 --> Total execution time: 0.5476
+INFO - 2020-01-28 18:43:39 --> Config Class Initialized
+INFO - 2020-01-28 18:43:39 --> Config Class Initialized
+INFO - 2020-01-28 18:43:39 --> Hooks Class Initialized
+INFO - 2020-01-28 18:43:39 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:43:39 --> UTF-8 Support Enabled
+DEBUG - 2020-01-28 18:43:39 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:43:39 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:39 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:39 --> URI Class Initialized
+INFO - 2020-01-28 18:43:39 --> URI Class Initialized
+INFO - 2020-01-28 18:43:39 --> Router Class Initialized
+INFO - 2020-01-28 18:43:39 --> Router Class Initialized
+INFO - 2020-01-28 18:43:39 --> Output Class Initialized
+INFO - 2020-01-28 18:43:39 --> Output Class Initialized
+INFO - 2020-01-28 18:43:39 --> Security Class Initialized
+INFO - 2020-01-28 18:43:39 --> Security Class Initialized
+DEBUG - 2020-01-28 18:43:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-01-28 18:43:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:43:39 --> Input Class Initialized
+INFO - 2020-01-28 18:43:39 --> Input Class Initialized
+INFO - 2020-01-28 18:43:39 --> Language Class Initialized
+INFO - 2020-01-28 18:43:39 --> Language Class Initialized
+INFO - 2020-01-28 18:43:39 --> Language Class Initialized
+INFO - 2020-01-28 18:43:39 --> Language Class Initialized
+INFO - 2020-01-28 18:43:39 --> Config Class Initialized
+INFO - 2020-01-28 18:43:39 --> Config Class Initialized
+INFO - 2020-01-28 18:43:39 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:39 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:39 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:39 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:39 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:39 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:40 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:40 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:40 --> Controller Class Initialized
+INFO - 2020-01-28 18:43:40 --> Controller Class Initialized
+ERROR - 2020-01-28 18:43:40 --> 404 Page Not Found: /index
+ERROR - 2020-01-28 18:43:40 --> 404 Page Not Found: /index
+INFO - 2020-01-28 18:43:52 --> Config Class Initialized
+INFO - 2020-01-28 18:43:52 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:43:52 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:43:52 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:52 --> URI Class Initialized
+INFO - 2020-01-28 18:43:52 --> Router Class Initialized
+INFO - 2020-01-28 18:43:52 --> Output Class Initialized
+INFO - 2020-01-28 18:43:52 --> Security Class Initialized
+DEBUG - 2020-01-28 18:43:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:43:52 --> Input Class Initialized
+INFO - 2020-01-28 18:43:52 --> Language Class Initialized
+INFO - 2020-01-28 18:43:52 --> Language Class Initialized
+INFO - 2020-01-28 18:43:52 --> Config Class Initialized
+INFO - 2020-01-28 18:43:53 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:53 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:53 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:53 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:53 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:43:53 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 18:43:53 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:43:53 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 18:43:53 --> Final output sent to browser
+DEBUG - 2020-01-28 18:43:53 --> Total execution time: 0.5540
+INFO - 2020-01-28 18:43:57 --> Config Class Initialized
+INFO - 2020-01-28 18:43:57 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:43:57 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:43:57 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:43:57 --> URI Class Initialized
+INFO - 2020-01-28 18:43:57 --> Router Class Initialized
+INFO - 2020-01-28 18:43:57 --> Output Class Initialized
+INFO - 2020-01-28 18:43:57 --> Security Class Initialized
+DEBUG - 2020-01-28 18:43:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:43:57 --> Input Class Initialized
+INFO - 2020-01-28 18:43:57 --> Language Class Initialized
+INFO - 2020-01-28 18:43:57 --> Language Class Initialized
+INFO - 2020-01-28 18:43:57 --> Config Class Initialized
+INFO - 2020-01-28 18:43:57 --> Loader Class Initialized
+INFO - 2020-01-28 18:43:57 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:43:57 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:43:57 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:43:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:43:57 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:43:57 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 18:43:57 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:43:57 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 18:43:57 --> Final output sent to browser
+DEBUG - 2020-01-28 18:43:57 --> Total execution time: 0.5083
+INFO - 2020-01-28 18:46:54 --> Config Class Initialized
+INFO - 2020-01-28 18:46:54 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:46:54 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:46:54 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:46:54 --> URI Class Initialized
+INFO - 2020-01-28 18:46:54 --> Router Class Initialized
+INFO - 2020-01-28 18:46:54 --> Output Class Initialized
+INFO - 2020-01-28 18:46:54 --> Security Class Initialized
+DEBUG - 2020-01-28 18:46:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:46:54 --> Input Class Initialized
+INFO - 2020-01-28 18:46:54 --> Language Class Initialized
+INFO - 2020-01-28 18:46:54 --> Language Class Initialized
+INFO - 2020-01-28 18:46:54 --> Config Class Initialized
+INFO - 2020-01-28 18:46:54 --> Loader Class Initialized
+INFO - 2020-01-28 18:46:54 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:46:54 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:46:54 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:46:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:46:54 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:46:54 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 18:46:54 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:46:54 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 18:46:54 --> Final output sent to browser
+DEBUG - 2020-01-28 18:46:54 --> Total execution time: 0.5352
+INFO - 2020-01-28 18:46:56 --> Config Class Initialized
+INFO - 2020-01-28 18:46:56 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:46:56 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:46:56 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:46:56 --> URI Class Initialized
+INFO - 2020-01-28 18:46:56 --> Router Class Initialized
+INFO - 2020-01-28 18:46:56 --> Output Class Initialized
+INFO - 2020-01-28 18:46:56 --> Security Class Initialized
+DEBUG - 2020-01-28 18:46:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:46:56 --> Input Class Initialized
+INFO - 2020-01-28 18:46:56 --> Language Class Initialized
+INFO - 2020-01-28 18:46:56 --> Language Class Initialized
+INFO - 2020-01-28 18:46:56 --> Config Class Initialized
+INFO - 2020-01-28 18:46:56 --> Loader Class Initialized
+INFO - 2020-01-28 18:46:56 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:46:56 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:46:56 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:46:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:46:56 --> Controller Class Initialized
+ERROR - 2020-01-28 18:46:56 --> 404 Page Not Found: /index
+INFO - 2020-01-28 18:46:59 --> Config Class Initialized
+INFO - 2020-01-28 18:46:59 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:46:59 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:46:59 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:46:59 --> URI Class Initialized
+INFO - 2020-01-28 18:47:00 --> Router Class Initialized
+INFO - 2020-01-28 18:47:00 --> Output Class Initialized
+INFO - 2020-01-28 18:47:00 --> Security Class Initialized
+DEBUG - 2020-01-28 18:47:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:47:00 --> Input Class Initialized
+INFO - 2020-01-28 18:47:00 --> Language Class Initialized
+INFO - 2020-01-28 18:47:00 --> Language Class Initialized
+INFO - 2020-01-28 18:47:00 --> Config Class Initialized
+INFO - 2020-01-28 18:47:00 --> Loader Class Initialized
+INFO - 2020-01-28 18:47:00 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:47:00 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:47:00 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:47:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:47:00 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:47:00 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 18:47:00 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:47:00 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 18:47:00 --> Final output sent to browser
+DEBUG - 2020-01-28 18:47:00 --> Total execution time: 0.5828
+INFO - 2020-01-28 18:47:17 --> Config Class Initialized
+INFO - 2020-01-28 18:47:17 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:47:17 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:47:17 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:47:17 --> URI Class Initialized
+INFO - 2020-01-28 18:47:17 --> Router Class Initialized
+INFO - 2020-01-28 18:47:17 --> Output Class Initialized
+INFO - 2020-01-28 18:47:17 --> Security Class Initialized
+DEBUG - 2020-01-28 18:47:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:47:17 --> Input Class Initialized
+INFO - 2020-01-28 18:47:17 --> Language Class Initialized
+INFO - 2020-01-28 18:47:17 --> Language Class Initialized
+INFO - 2020-01-28 18:47:17 --> Config Class Initialized
+INFO - 2020-01-28 18:47:17 --> Loader Class Initialized
+INFO - 2020-01-28 18:47:17 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:47:17 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:47:17 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:47:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:47:17 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:47:17 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 18:47:17 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:47:17 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 18:47:17 --> Final output sent to browser
+DEBUG - 2020-01-28 18:47:17 --> Total execution time: 0.5925
+INFO - 2020-01-28 18:47:20 --> Config Class Initialized
+INFO - 2020-01-28 18:47:20 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:47:20 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:47:20 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:47:20 --> URI Class Initialized
+INFO - 2020-01-28 18:47:20 --> Router Class Initialized
+INFO - 2020-01-28 18:47:20 --> Output Class Initialized
+INFO - 2020-01-28 18:47:20 --> Security Class Initialized
+DEBUG - 2020-01-28 18:47:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:47:20 --> Input Class Initialized
+INFO - 2020-01-28 18:47:20 --> Language Class Initialized
+INFO - 2020-01-28 18:47:20 --> Language Class Initialized
+INFO - 2020-01-28 18:47:20 --> Config Class Initialized
+INFO - 2020-01-28 18:47:20 --> Loader Class Initialized
+INFO - 2020-01-28 18:47:20 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:47:21 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:47:21 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:47:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:47:21 --> Controller Class Initialized
+ERROR - 2020-01-28 18:47:21 --> 404 Page Not Found: /index
+INFO - 2020-01-28 18:47:23 --> Config Class Initialized
+INFO - 2020-01-28 18:47:23 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:47:23 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:47:23 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:47:23 --> URI Class Initialized
+INFO - 2020-01-28 18:47:23 --> Router Class Initialized
+INFO - 2020-01-28 18:47:23 --> Output Class Initialized
+INFO - 2020-01-28 18:47:23 --> Security Class Initialized
+DEBUG - 2020-01-28 18:47:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:47:23 --> Input Class Initialized
+INFO - 2020-01-28 18:47:23 --> Language Class Initialized
+INFO - 2020-01-28 18:47:23 --> Language Class Initialized
+INFO - 2020-01-28 18:47:23 --> Config Class Initialized
+INFO - 2020-01-28 18:47:23 --> Loader Class Initialized
+INFO - 2020-01-28 18:47:23 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:47:23 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:47:23 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:47:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:47:23 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:47:23 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 18:47:24 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:47:24 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 18:47:24 --> Final output sent to browser
+DEBUG - 2020-01-28 18:47:24 --> Total execution time: 0.5975
+INFO - 2020-01-28 18:58:18 --> Config Class Initialized
+INFO - 2020-01-28 18:58:18 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:58:18 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:58:18 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:58:18 --> URI Class Initialized
+INFO - 2020-01-28 18:58:18 --> Router Class Initialized
+INFO - 2020-01-28 18:58:18 --> Output Class Initialized
+INFO - 2020-01-28 18:58:18 --> Security Class Initialized
+DEBUG - 2020-01-28 18:58:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:58:18 --> Input Class Initialized
+INFO - 2020-01-28 18:58:18 --> Language Class Initialized
+INFO - 2020-01-28 18:58:18 --> Language Class Initialized
+INFO - 2020-01-28 18:58:18 --> Config Class Initialized
+INFO - 2020-01-28 18:58:18 --> Loader Class Initialized
+INFO - 2020-01-28 18:58:18 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:58:18 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:58:19 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:58:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:58:19 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:58:19 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 18:58:19 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 18:58:19 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 18:58:19 --> Final output sent to browser
+DEBUG - 2020-01-28 18:58:19 --> Total execution time: 0.6508
+INFO - 2020-01-28 18:58:21 --> Config Class Initialized
+INFO - 2020-01-28 18:58:21 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:58:21 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:58:21 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:58:21 --> URI Class Initialized
+INFO - 2020-01-28 18:58:21 --> Router Class Initialized
+INFO - 2020-01-28 18:58:21 --> Output Class Initialized
+INFO - 2020-01-28 18:58:21 --> Security Class Initialized
+DEBUG - 2020-01-28 18:58:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:58:21 --> Input Class Initialized
+INFO - 2020-01-28 18:58:21 --> Language Class Initialized
+INFO - 2020-01-28 18:58:21 --> Language Class Initialized
+INFO - 2020-01-28 18:58:21 --> Config Class Initialized
+INFO - 2020-01-28 18:58:21 --> Loader Class Initialized
+INFO - 2020-01-28 18:58:21 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:58:21 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:58:21 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:58:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:58:21 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:58:21 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 18:58:21 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+ERROR - 2020-01-28 18:58:22 --> Severity: error --> Exception: Call to undefined function iseet() C:\xampp\htdocs\adminrsrz_baru\application\modules\auth\controllers\Auth.php 11
+INFO - 2020-01-28 18:58:34 --> Config Class Initialized
+INFO - 2020-01-28 18:58:34 --> Hooks Class Initialized
+DEBUG - 2020-01-28 18:58:34 --> UTF-8 Support Enabled
+INFO - 2020-01-28 18:58:34 --> Utf8 Class Initialized
+INFO - 2020-01-28 18:58:34 --> URI Class Initialized
+INFO - 2020-01-28 18:58:34 --> Router Class Initialized
+INFO - 2020-01-28 18:58:34 --> Output Class Initialized
+INFO - 2020-01-28 18:58:34 --> Security Class Initialized
+DEBUG - 2020-01-28 18:58:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 18:58:34 --> Input Class Initialized
+INFO - 2020-01-28 18:58:34 --> Language Class Initialized
+INFO - 2020-01-28 18:58:34 --> Language Class Initialized
+INFO - 2020-01-28 18:58:34 --> Config Class Initialized
+INFO - 2020-01-28 18:58:34 --> Loader Class Initialized
+INFO - 2020-01-28 18:58:34 --> Helper loaded: url_helper
+INFO - 2020-01-28 18:58:34 --> Helper loaded: form_helper
+INFO - 2020-01-28 18:58:34 --> Database Driver Class Initialized
+INFO - 2020-01-28 18:58:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 18:58:34 --> Controller Class Initialized
+DEBUG - 2020-01-28 18:58:34 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 18:58:34 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+INFO - 2020-01-28 18:58:35 --> Final output sent to browser
+DEBUG - 2020-01-28 18:58:35 --> Total execution time: 0.5823
+INFO - 2020-01-28 19:05:58 --> Config Class Initialized
+INFO - 2020-01-28 19:05:58 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:05:58 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:05:58 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:05:58 --> URI Class Initialized
+INFO - 2020-01-28 19:05:58 --> Router Class Initialized
+INFO - 2020-01-28 19:05:58 --> Output Class Initialized
+INFO - 2020-01-28 19:05:58 --> Security Class Initialized
+DEBUG - 2020-01-28 19:05:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:05:58 --> Input Class Initialized
+INFO - 2020-01-28 19:05:58 --> Language Class Initialized
+INFO - 2020-01-28 19:05:58 --> Language Class Initialized
+INFO - 2020-01-28 19:05:58 --> Config Class Initialized
+INFO - 2020-01-28 19:05:58 --> Loader Class Initialized
+INFO - 2020-01-28 19:05:58 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:05:58 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:05:58 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:05:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:05:58 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:05:58 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:05:58 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:05:58 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 19:05:58 --> Final output sent to browser
+DEBUG - 2020-01-28 19:05:58 --> Total execution time: 0.6252
+INFO - 2020-01-28 19:06:00 --> Config Class Initialized
+INFO - 2020-01-28 19:06:00 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:06:00 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:06:00 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:06:00 --> URI Class Initialized
+INFO - 2020-01-28 19:06:00 --> Router Class Initialized
+INFO - 2020-01-28 19:06:00 --> Output Class Initialized
+INFO - 2020-01-28 19:06:00 --> Security Class Initialized
+DEBUG - 2020-01-28 19:06:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:06:00 --> Input Class Initialized
+INFO - 2020-01-28 19:06:00 --> Language Class Initialized
+INFO - 2020-01-28 19:06:00 --> Language Class Initialized
+INFO - 2020-01-28 19:06:00 --> Config Class Initialized
+INFO - 2020-01-28 19:06:00 --> Loader Class Initialized
+INFO - 2020-01-28 19:06:00 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:06:00 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:06:00 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:06:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:06:01 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:06:01 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:06:01 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:06:01 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 19:06:01 --> Final output sent to browser
+DEBUG - 2020-01-28 19:06:01 --> Total execution time: 0.6220
+INFO - 2020-01-28 19:06:09 --> Config Class Initialized
+INFO - 2020-01-28 19:06:09 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:06:09 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:06:09 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:06:09 --> URI Class Initialized
+INFO - 2020-01-28 19:06:09 --> Router Class Initialized
+INFO - 2020-01-28 19:06:09 --> Output Class Initialized
+INFO - 2020-01-28 19:06:09 --> Security Class Initialized
+DEBUG - 2020-01-28 19:06:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:06:09 --> Input Class Initialized
+INFO - 2020-01-28 19:06:09 --> Language Class Initialized
+INFO - 2020-01-28 19:06:09 --> Language Class Initialized
+INFO - 2020-01-28 19:06:09 --> Config Class Initialized
+INFO - 2020-01-28 19:06:09 --> Loader Class Initialized
+INFO - 2020-01-28 19:06:09 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:06:09 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:06:09 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:06:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:06:10 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:06:10 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:06:10 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+ERROR - 2020-01-28 19:06:10 --> Query error: Unknown column 'role.id' in 'on clause' - Invalid query: SELECT *
+FROM `member`
+JOIN `tb_role` ON `member`.`role_id`=`role`.`id`
+JOIN `tb_user` ON `member`.`user_id`=`tb_user`.`nis`
+WHERE `username` = 'frischa'
+AND `password` = '0cc175b9c0f1b6a831c399e269772661'
+INFO - 2020-01-28 19:06:10 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-01-28 19:06:28 --> Config Class Initialized
+INFO - 2020-01-28 19:06:28 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:06:28 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:06:28 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:06:28 --> URI Class Initialized
+INFO - 2020-01-28 19:06:28 --> Router Class Initialized
+INFO - 2020-01-28 19:06:28 --> Output Class Initialized
+INFO - 2020-01-28 19:06:28 --> Security Class Initialized
+DEBUG - 2020-01-28 19:06:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:06:28 --> Input Class Initialized
+INFO - 2020-01-28 19:06:28 --> Language Class Initialized
+INFO - 2020-01-28 19:06:28 --> Language Class Initialized
+INFO - 2020-01-28 19:06:28 --> Config Class Initialized
+INFO - 2020-01-28 19:06:29 --> Loader Class Initialized
+INFO - 2020-01-28 19:06:29 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:06:29 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:06:29 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:06:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:06:29 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:06:29 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:06:29 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+INFO - 2020-01-28 19:06:29 --> Final output sent to browser
+DEBUG - 2020-01-28 19:06:29 --> Total execution time: 0.6706
+INFO - 2020-01-28 19:08:00 --> Config Class Initialized
+INFO - 2020-01-28 19:08:00 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:08:00 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:08:00 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:08:00 --> URI Class Initialized
+INFO - 2020-01-28 19:08:00 --> Router Class Initialized
+INFO - 2020-01-28 19:08:01 --> Output Class Initialized
+INFO - 2020-01-28 19:08:01 --> Security Class Initialized
+DEBUG - 2020-01-28 19:08:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:08:01 --> Input Class Initialized
+INFO - 2020-01-28 19:08:01 --> Language Class Initialized
+INFO - 2020-01-28 19:08:01 --> Language Class Initialized
+INFO - 2020-01-28 19:08:01 --> Config Class Initialized
+INFO - 2020-01-28 19:08:01 --> Loader Class Initialized
+INFO - 2020-01-28 19:08:01 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:08:01 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:08:01 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:08:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:08:01 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:08:01 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:08:01 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+INFO - 2020-01-28 19:08:01 --> Config Class Initialized
+INFO - 2020-01-28 19:08:01 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:08:01 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:08:01 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:08:01 --> URI Class Initialized
+INFO - 2020-01-28 19:08:01 --> Router Class Initialized
+INFO - 2020-01-28 19:08:01 --> Output Class Initialized
+INFO - 2020-01-28 19:08:01 --> Security Class Initialized
+DEBUG - 2020-01-28 19:08:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:08:01 --> Input Class Initialized
+INFO - 2020-01-28 19:08:01 --> Language Class Initialized
+INFO - 2020-01-28 19:08:01 --> Language Class Initialized
+INFO - 2020-01-28 19:08:01 --> Config Class Initialized
+INFO - 2020-01-28 19:08:01 --> Loader Class Initialized
+INFO - 2020-01-28 19:08:01 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:08:01 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:08:01 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:08:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:08:01 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:08:02 --> Home_admin MX_Controller Initialized
+DEBUG - 2020-01-28 19:08:02 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:08:02 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/sejarah/controllers/Sejarah.php
+DEBUG - 2020-01-28 19:08:02 --> Sejarah MX_Controller Initialized
+INFO - 2020-01-28 19:08:02 --> Model Class Initialized
+DEBUG - 2020-01-28 19:08:02 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/sejarah/models/M_sejarah.php
+INFO - 2020-01-28 19:08:02 --> Model Class Initialized
+DEBUG - 2020-01-28 19:08:02 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Home_admin/views/home_admin_v2.php
+DEBUG - 2020-01-28 19:08:02 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\views\template/template_admin.php
+INFO - 2020-01-28 19:08:02 --> Final output sent to browser
+DEBUG - 2020-01-28 19:08:02 --> Total execution time: 0.8141
+INFO - 2020-01-28 19:11:47 --> Config Class Initialized
+INFO - 2020-01-28 19:11:47 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:11:47 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:11:47 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:11:47 --> URI Class Initialized
+INFO - 2020-01-28 19:11:47 --> Router Class Initialized
+INFO - 2020-01-28 19:11:47 --> Output Class Initialized
+INFO - 2020-01-28 19:11:48 --> Security Class Initialized
+DEBUG - 2020-01-28 19:11:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:11:48 --> Input Class Initialized
+INFO - 2020-01-28 19:11:48 --> Language Class Initialized
+INFO - 2020-01-28 19:11:48 --> Language Class Initialized
+INFO - 2020-01-28 19:11:48 --> Config Class Initialized
+INFO - 2020-01-28 19:11:48 --> Loader Class Initialized
+INFO - 2020-01-28 19:11:48 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:11:48 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:11:48 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:11:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:11:48 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:11:48 --> Home_admin MX_Controller Initialized
+DEBUG - 2020-01-28 19:11:48 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:11:48 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/sejarah/controllers/Sejarah.php
+DEBUG - 2020-01-28 19:11:48 --> Sejarah MX_Controller Initialized
+INFO - 2020-01-28 19:11:48 --> Model Class Initialized
+DEBUG - 2020-01-28 19:11:48 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/sejarah/models/M_sejarah.php
+INFO - 2020-01-28 19:11:48 --> Model Class Initialized
+DEBUG - 2020-01-28 19:11:48 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Home_admin/views/home_admin_v2.php
+DEBUG - 2020-01-28 19:11:48 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\views\template/template_admin.php
+INFO - 2020-01-28 19:11:48 --> Final output sent to browser
+DEBUG - 2020-01-28 19:11:48 --> Total execution time: 0.7290
+INFO - 2020-01-28 19:12:31 --> Config Class Initialized
+INFO - 2020-01-28 19:12:31 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:12:32 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:12:32 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:12:32 --> URI Class Initialized
+INFO - 2020-01-28 19:12:32 --> Router Class Initialized
+INFO - 2020-01-28 19:12:32 --> Output Class Initialized
+INFO - 2020-01-28 19:12:32 --> Security Class Initialized
+DEBUG - 2020-01-28 19:12:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:12:32 --> Input Class Initialized
+INFO - 2020-01-28 19:12:32 --> Language Class Initialized
+INFO - 2020-01-28 19:12:32 --> Language Class Initialized
+INFO - 2020-01-28 19:12:32 --> Config Class Initialized
+INFO - 2020-01-28 19:12:32 --> Loader Class Initialized
+INFO - 2020-01-28 19:12:32 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:12:32 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:12:32 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:12:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:12:32 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:12:33 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:12:33 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:12:33 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 19:12:33 --> Final output sent to browser
+DEBUG - 2020-01-28 19:12:33 --> Total execution time: 1.2767
+INFO - 2020-01-28 19:12:45 --> Config Class Initialized
+INFO - 2020-01-28 19:12:45 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:12:45 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:12:45 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:12:45 --> URI Class Initialized
+INFO - 2020-01-28 19:12:45 --> Router Class Initialized
+INFO - 2020-01-28 19:12:45 --> Output Class Initialized
+INFO - 2020-01-28 19:12:45 --> Security Class Initialized
+DEBUG - 2020-01-28 19:12:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:12:45 --> Input Class Initialized
+INFO - 2020-01-28 19:12:45 --> Language Class Initialized
+INFO - 2020-01-28 19:12:45 --> Language Class Initialized
+INFO - 2020-01-28 19:12:45 --> Config Class Initialized
+INFO - 2020-01-28 19:12:45 --> Loader Class Initialized
+INFO - 2020-01-28 19:12:45 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:12:45 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:12:45 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:12:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:12:46 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:12:46 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:12:46 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+INFO - 2020-01-28 19:12:46 --> Config Class Initialized
+INFO - 2020-01-28 19:12:46 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:12:46 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:12:46 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:12:46 --> URI Class Initialized
+INFO - 2020-01-28 19:12:46 --> Router Class Initialized
+INFO - 2020-01-28 19:12:46 --> Output Class Initialized
+INFO - 2020-01-28 19:12:46 --> Security Class Initialized
+DEBUG - 2020-01-28 19:12:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:12:46 --> Input Class Initialized
+INFO - 2020-01-28 19:12:46 --> Language Class Initialized
+INFO - 2020-01-28 19:12:46 --> Language Class Initialized
+INFO - 2020-01-28 19:12:46 --> Config Class Initialized
+INFO - 2020-01-28 19:12:46 --> Loader Class Initialized
+INFO - 2020-01-28 19:12:47 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:12:47 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:12:47 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:12:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:12:47 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:12:47 --> Home_admin MX_Controller Initialized
+DEBUG - 2020-01-28 19:12:47 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:12:47 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/sejarah/controllers/Sejarah.php
+DEBUG - 2020-01-28 19:12:47 --> Sejarah MX_Controller Initialized
+INFO - 2020-01-28 19:12:47 --> Model Class Initialized
+DEBUG - 2020-01-28 19:12:47 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/sejarah/models/M_sejarah.php
+INFO - 2020-01-28 19:12:47 --> Model Class Initialized
+DEBUG - 2020-01-28 19:12:47 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Home_admin/views/home_admin_v2.php
+DEBUG - 2020-01-28 19:12:47 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\views\template/template_admin.php
+INFO - 2020-01-28 19:12:47 --> Final output sent to browser
+DEBUG - 2020-01-28 19:12:47 --> Total execution time: 1.5223
+INFO - 2020-01-28 19:12:59 --> Config Class Initialized
+INFO - 2020-01-28 19:12:59 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:12:59 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:12:59 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:12:59 --> URI Class Initialized
+INFO - 2020-01-28 19:12:59 --> Router Class Initialized
+INFO - 2020-01-28 19:12:59 --> Output Class Initialized
+INFO - 2020-01-28 19:13:00 --> Security Class Initialized
+DEBUG - 2020-01-28 19:13:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:13:00 --> Input Class Initialized
+INFO - 2020-01-28 19:13:00 --> Language Class Initialized
+INFO - 2020-01-28 19:13:00 --> Language Class Initialized
+INFO - 2020-01-28 19:13:00 --> Config Class Initialized
+INFO - 2020-01-28 19:13:00 --> Loader Class Initialized
+INFO - 2020-01-28 19:13:00 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:13:00 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:13:00 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:13:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:13:00 --> Controller Class Initialized
+ERROR - 2020-01-28 19:13:00 --> 404 Page Not Found: /index
+INFO - 2020-01-28 19:13:02 --> Config Class Initialized
+INFO - 2020-01-28 19:13:02 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:13:02 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:13:02 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:13:02 --> URI Class Initialized
+INFO - 2020-01-28 19:13:02 --> Router Class Initialized
+INFO - 2020-01-28 19:13:02 --> Output Class Initialized
+INFO - 2020-01-28 19:13:02 --> Security Class Initialized
+DEBUG - 2020-01-28 19:13:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:13:02 --> Input Class Initialized
+INFO - 2020-01-28 19:13:02 --> Language Class Initialized
+INFO - 2020-01-28 19:13:02 --> Language Class Initialized
+INFO - 2020-01-28 19:13:03 --> Config Class Initialized
+INFO - 2020-01-28 19:13:03 --> Loader Class Initialized
+INFO - 2020-01-28 19:13:03 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:13:03 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:13:03 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:13:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:13:03 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:13:03 --> Home_admin MX_Controller Initialized
+DEBUG - 2020-01-28 19:13:03 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:13:03 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/sejarah/controllers/Sejarah.php
+DEBUG - 2020-01-28 19:13:03 --> Sejarah MX_Controller Initialized
+INFO - 2020-01-28 19:13:03 --> Model Class Initialized
+DEBUG - 2020-01-28 19:13:03 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/sejarah/models/M_sejarah.php
+INFO - 2020-01-28 19:13:03 --> Model Class Initialized
+DEBUG - 2020-01-28 19:13:03 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Home_admin/views/home_admin_v2.php
+DEBUG - 2020-01-28 19:13:03 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\views\template/template_admin.php
+INFO - 2020-01-28 19:13:03 --> Final output sent to browser
+DEBUG - 2020-01-28 19:13:03 --> Total execution time: 0.7734
+INFO - 2020-01-28 19:13:09 --> Config Class Initialized
+INFO - 2020-01-28 19:13:09 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:13:09 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:13:09 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:13:09 --> URI Class Initialized
+INFO - 2020-01-28 19:13:09 --> Router Class Initialized
+INFO - 2020-01-28 19:13:09 --> Output Class Initialized
+INFO - 2020-01-28 19:13:09 --> Security Class Initialized
+DEBUG - 2020-01-28 19:13:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:13:10 --> Input Class Initialized
+INFO - 2020-01-28 19:13:10 --> Language Class Initialized
+INFO - 2020-01-28 19:13:10 --> Language Class Initialized
+INFO - 2020-01-28 19:13:10 --> Config Class Initialized
+INFO - 2020-01-28 19:13:10 --> Loader Class Initialized
+INFO - 2020-01-28 19:13:10 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:13:10 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:13:10 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:13:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:13:10 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:13:10 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:13:10 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+INFO - 2020-01-28 19:13:10 --> Config Class Initialized
+INFO - 2020-01-28 19:13:10 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:13:10 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:13:10 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:13:10 --> URI Class Initialized
+INFO - 2020-01-28 19:13:10 --> Router Class Initialized
+INFO - 2020-01-28 19:13:10 --> Output Class Initialized
+INFO - 2020-01-28 19:13:11 --> Security Class Initialized
+DEBUG - 2020-01-28 19:13:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:13:11 --> Input Class Initialized
+INFO - 2020-01-28 19:13:11 --> Language Class Initialized
+INFO - 2020-01-28 19:13:11 --> Language Class Initialized
+INFO - 2020-01-28 19:13:11 --> Config Class Initialized
+INFO - 2020-01-28 19:13:11 --> Loader Class Initialized
+INFO - 2020-01-28 19:13:11 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:13:11 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:13:11 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:13:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:13:11 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:13:11 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:13:11 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+INFO - 2020-01-28 19:13:11 --> Config Class Initialized
+INFO - 2020-01-28 19:13:12 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:13:12 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:13:12 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:13:12 --> URI Class Initialized
+INFO - 2020-01-28 19:13:12 --> Router Class Initialized
+INFO - 2020-01-28 19:13:12 --> Output Class Initialized
+INFO - 2020-01-28 19:13:12 --> Security Class Initialized
+DEBUG - 2020-01-28 19:13:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:13:12 --> Input Class Initialized
+INFO - 2020-01-28 19:13:12 --> Language Class Initialized
+INFO - 2020-01-28 19:13:12 --> Language Class Initialized
+INFO - 2020-01-28 19:13:12 --> Config Class Initialized
+INFO - 2020-01-28 19:13:12 --> Loader Class Initialized
+INFO - 2020-01-28 19:13:12 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:13:12 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:13:12 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:13:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:13:12 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:13:12 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:13:12 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:13:13 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 19:13:13 --> Final output sent to browser
+DEBUG - 2020-01-28 19:13:13 --> Total execution time: 1.0770
+INFO - 2020-01-28 19:16:03 --> Config Class Initialized
+INFO - 2020-01-28 19:16:03 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:16:03 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:16:03 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:16:03 --> URI Class Initialized
+INFO - 2020-01-28 19:16:03 --> Router Class Initialized
+INFO - 2020-01-28 19:16:03 --> Output Class Initialized
+INFO - 2020-01-28 19:16:04 --> Security Class Initialized
+DEBUG - 2020-01-28 19:16:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:16:04 --> Input Class Initialized
+INFO - 2020-01-28 19:16:04 --> Language Class Initialized
+INFO - 2020-01-28 19:16:04 --> Language Class Initialized
+INFO - 2020-01-28 19:16:04 --> Config Class Initialized
+INFO - 2020-01-28 19:16:04 --> Loader Class Initialized
+INFO - 2020-01-28 19:16:04 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:16:04 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:16:04 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:16:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:16:04 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:16:04 --> Home_admin MX_Controller Initialized
+DEBUG - 2020-01-28 19:16:04 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:16:04 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/sejarah/controllers/Sejarah.php
+DEBUG - 2020-01-28 19:16:04 --> Sejarah MX_Controller Initialized
+INFO - 2020-01-28 19:16:04 --> Model Class Initialized
+DEBUG - 2020-01-28 19:16:04 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/sejarah/models/M_sejarah.php
+INFO - 2020-01-28 19:16:04 --> Model Class Initialized
+DEBUG - 2020-01-28 19:16:04 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Home_admin/views/home_admin_v2.php
+DEBUG - 2020-01-28 19:16:04 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\views\template/template_admin.php
+INFO - 2020-01-28 19:16:04 --> Final output sent to browser
+DEBUG - 2020-01-28 19:16:04 --> Total execution time: 0.7355
+INFO - 2020-01-28 19:16:40 --> Config Class Initialized
+INFO - 2020-01-28 19:16:40 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:16:41 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:16:41 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:16:41 --> URI Class Initialized
+INFO - 2020-01-28 19:16:41 --> Router Class Initialized
+INFO - 2020-01-28 19:16:41 --> Output Class Initialized
+INFO - 2020-01-28 19:16:41 --> Security Class Initialized
+DEBUG - 2020-01-28 19:16:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:16:41 --> Input Class Initialized
+INFO - 2020-01-28 19:16:41 --> Language Class Initialized
+INFO - 2020-01-28 19:16:41 --> Language Class Initialized
+INFO - 2020-01-28 19:16:41 --> Config Class Initialized
+INFO - 2020-01-28 19:16:41 --> Loader Class Initialized
+INFO - 2020-01-28 19:16:41 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:16:41 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:16:41 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:16:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:16:41 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:16:42 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:16:42 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:16:42 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Auth/views/v_auth.php
+INFO - 2020-01-28 19:16:42 --> Final output sent to browser
+DEBUG - 2020-01-28 19:16:42 --> Total execution time: 1.2962
+INFO - 2020-01-28 19:17:23 --> Config Class Initialized
+INFO - 2020-01-28 19:17:23 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:17:23 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:17:23 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:17:23 --> URI Class Initialized
+INFO - 2020-01-28 19:17:23 --> Router Class Initialized
+INFO - 2020-01-28 19:17:23 --> Output Class Initialized
+INFO - 2020-01-28 19:17:23 --> Security Class Initialized
+DEBUG - 2020-01-28 19:17:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:17:24 --> Input Class Initialized
+INFO - 2020-01-28 19:17:24 --> Language Class Initialized
+INFO - 2020-01-28 19:17:24 --> Language Class Initialized
+INFO - 2020-01-28 19:17:24 --> Config Class Initialized
+INFO - 2020-01-28 19:17:24 --> Loader Class Initialized
+INFO - 2020-01-28 19:17:24 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:17:24 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:17:24 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:17:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:17:24 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:17:24 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:17:24 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+ERROR - 2020-01-28 19:17:24 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\adminrsrz_baru\application\modules\auth\controllers\Auth.php 20
+INFO - 2020-01-28 19:17:24 --> Final output sent to browser
+DEBUG - 2020-01-28 19:17:24 --> Total execution time: 1.3894
+INFO - 2020-01-28 19:17:44 --> Config Class Initialized
+INFO - 2020-01-28 19:17:44 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:17:44 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:17:44 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:17:44 --> URI Class Initialized
+INFO - 2020-01-28 19:17:44 --> Router Class Initialized
+INFO - 2020-01-28 19:17:44 --> Output Class Initialized
+INFO - 2020-01-28 19:17:44 --> Security Class Initialized
+DEBUG - 2020-01-28 19:17:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:17:44 --> Input Class Initialized
+INFO - 2020-01-28 19:17:44 --> Language Class Initialized
+INFO - 2020-01-28 19:17:44 --> Language Class Initialized
+INFO - 2020-01-28 19:17:44 --> Config Class Initialized
+INFO - 2020-01-28 19:17:45 --> Loader Class Initialized
+INFO - 2020-01-28 19:17:45 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:17:45 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:17:45 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:17:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:17:45 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:17:45 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:17:45 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+INFO - 2020-01-28 19:17:45 --> Final output sent to browser
+DEBUG - 2020-01-28 19:17:45 --> Total execution time: 1.2223
+INFO - 2020-01-28 19:18:02 --> Config Class Initialized
+INFO - 2020-01-28 19:18:02 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:18:02 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:18:02 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:18:02 --> URI Class Initialized
+INFO - 2020-01-28 19:18:02 --> Router Class Initialized
+INFO - 2020-01-28 19:18:02 --> Output Class Initialized
+INFO - 2020-01-28 19:18:02 --> Security Class Initialized
+DEBUG - 2020-01-28 19:18:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:18:02 --> Input Class Initialized
+INFO - 2020-01-28 19:18:02 --> Language Class Initialized
+INFO - 2020-01-28 19:18:02 --> Language Class Initialized
+INFO - 2020-01-28 19:18:02 --> Config Class Initialized
+INFO - 2020-01-28 19:18:02 --> Loader Class Initialized
+INFO - 2020-01-28 19:18:02 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:18:02 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:18:03 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:18:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:18:03 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:18:03 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:18:03 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+INFO - 2020-01-28 19:18:03 --> Final output sent to browser
+DEBUG - 2020-01-28 19:18:03 --> Total execution time: 0.5888
+INFO - 2020-01-28 19:18:52 --> Config Class Initialized
+INFO - 2020-01-28 19:18:52 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:18:52 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:18:52 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:18:52 --> URI Class Initialized
+INFO - 2020-01-28 19:18:52 --> Router Class Initialized
+INFO - 2020-01-28 19:18:52 --> Output Class Initialized
+INFO - 2020-01-28 19:18:52 --> Security Class Initialized
+DEBUG - 2020-01-28 19:18:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:18:52 --> Input Class Initialized
+INFO - 2020-01-28 19:18:52 --> Language Class Initialized
+INFO - 2020-01-28 19:18:52 --> Language Class Initialized
+INFO - 2020-01-28 19:18:52 --> Config Class Initialized
+INFO - 2020-01-28 19:18:52 --> Loader Class Initialized
+INFO - 2020-01-28 19:18:52 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:18:52 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:18:52 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:18:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:18:52 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:18:52 --> Auth MX_Controller Initialized
+DEBUG - 2020-01-28 19:18:52 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+INFO - 2020-01-28 19:18:52 --> Config Class Initialized
+INFO - 2020-01-28 19:18:52 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:18:52 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:18:52 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:18:52 --> URI Class Initialized
+INFO - 2020-01-28 19:18:52 --> Router Class Initialized
+INFO - 2020-01-28 19:18:52 --> Output Class Initialized
+INFO - 2020-01-28 19:18:52 --> Security Class Initialized
+DEBUG - 2020-01-28 19:18:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:18:52 --> Input Class Initialized
+INFO - 2020-01-28 19:18:52 --> Language Class Initialized
+INFO - 2020-01-28 19:18:52 --> Language Class Initialized
+INFO - 2020-01-28 19:18:53 --> Config Class Initialized
+INFO - 2020-01-28 19:18:53 --> Loader Class Initialized
+INFO - 2020-01-28 19:18:53 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:18:53 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:18:53 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:18:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:18:53 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:18:53 --> Home_admin MX_Controller Initialized
+DEBUG - 2020-01-28 19:18:53 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:18:53 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/sejarah/controllers/Sejarah.php
+DEBUG - 2020-01-28 19:18:53 --> Sejarah MX_Controller Initialized
+INFO - 2020-01-28 19:18:53 --> Model Class Initialized
+DEBUG - 2020-01-28 19:18:53 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/sejarah/models/M_sejarah.php
+INFO - 2020-01-28 19:18:53 --> Model Class Initialized
+DEBUG - 2020-01-28 19:18:53 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Home_admin/views/home_admin_v2.php
+DEBUG - 2020-01-28 19:18:53 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\views\template/template_admin.php
+INFO - 2020-01-28 19:18:53 --> Final output sent to browser
+DEBUG - 2020-01-28 19:18:53 --> Total execution time: 0.7590
+INFO - 2020-01-28 19:20:20 --> Config Class Initialized
+INFO - 2020-01-28 19:20:20 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:20:20 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:20:20 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:20:20 --> URI Class Initialized
+INFO - 2020-01-28 19:20:20 --> Router Class Initialized
+INFO - 2020-01-28 19:20:20 --> Output Class Initialized
+INFO - 2020-01-28 19:20:20 --> Security Class Initialized
+DEBUG - 2020-01-28 19:20:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:20:20 --> Input Class Initialized
+INFO - 2020-01-28 19:20:21 --> Language Class Initialized
+INFO - 2020-01-28 19:20:21 --> Language Class Initialized
+INFO - 2020-01-28 19:20:21 --> Config Class Initialized
+INFO - 2020-01-28 19:20:21 --> Loader Class Initialized
+INFO - 2020-01-28 19:20:21 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:20:21 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:20:21 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:20:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:20:21 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:20:21 --> Home_admin MX_Controller Initialized
+DEBUG - 2020-01-28 19:20:21 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:20:21 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/sejarah/controllers/Sejarah.php
+DEBUG - 2020-01-28 19:20:21 --> Sejarah MX_Controller Initialized
+INFO - 2020-01-28 19:20:21 --> Model Class Initialized
+DEBUG - 2020-01-28 19:20:21 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/sejarah/models/M_sejarah.php
+INFO - 2020-01-28 19:20:21 --> Model Class Initialized
+DEBUG - 2020-01-28 19:20:21 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Home_admin/views/home_admin_v2.php
+DEBUG - 2020-01-28 19:20:21 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\views\template/template_admin.php
+INFO - 2020-01-28 19:20:21 --> Final output sent to browser
+DEBUG - 2020-01-28 19:20:21 --> Total execution time: 0.7681
+INFO - 2020-01-28 19:20:35 --> Config Class Initialized
+INFO - 2020-01-28 19:20:35 --> Hooks Class Initialized
+DEBUG - 2020-01-28 19:20:35 --> UTF-8 Support Enabled
+INFO - 2020-01-28 19:20:35 --> Utf8 Class Initialized
+INFO - 2020-01-28 19:20:35 --> URI Class Initialized
+INFO - 2020-01-28 19:20:35 --> Router Class Initialized
+INFO - 2020-01-28 19:20:35 --> Output Class Initialized
+INFO - 2020-01-28 19:20:35 --> Security Class Initialized
+DEBUG - 2020-01-28 19:20:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-28 19:20:35 --> Input Class Initialized
+INFO - 2020-01-28 19:20:35 --> Language Class Initialized
+INFO - 2020-01-28 19:20:35 --> Language Class Initialized
+INFO - 2020-01-28 19:20:35 --> Config Class Initialized
+INFO - 2020-01-28 19:20:35 --> Loader Class Initialized
+INFO - 2020-01-28 19:20:35 --> Helper loaded: url_helper
+INFO - 2020-01-28 19:20:35 --> Helper loaded: form_helper
+INFO - 2020-01-28 19:20:35 --> Database Driver Class Initialized
+INFO - 2020-01-28 19:20:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-28 19:20:35 --> Controller Class Initialized
+DEBUG - 2020-01-28 19:20:35 --> Home_admin MX_Controller Initialized
+DEBUG - 2020-01-28 19:20:35 --> File already loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/template/controllers/Template.php
+DEBUG - 2020-01-28 19:20:35 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\controllers/../modules/sejarah/controllers/Sejarah.php
+DEBUG - 2020-01-28 19:20:35 --> Sejarah MX_Controller Initialized
+INFO - 2020-01-28 19:20:35 --> Model Class Initialized
+DEBUG - 2020-01-28 19:20:35 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/sejarah/models/M_sejarah.php
+INFO - 2020-01-28 19:20:35 --> Model Class Initialized
+DEBUG - 2020-01-28 19:20:35 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\modules/Home_admin/views/home_admin_v2.php
+DEBUG - 2020-01-28 19:20:35 --> File loaded: C:\xampp\htdocs\adminrsrz_baru\application\views\template/template_admin.php
+INFO - 2020-01-28 19:20:36 --> Final output sent to browser
+DEBUG - 2020-01-28 19:20:36 --> Total execution time: 0.7675
